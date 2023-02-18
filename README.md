@@ -1,5 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,vscode)](https://skillicons.dev)
-
 **HD Texture Packs**
 
 * [Tonic Trouble (Retail)](https://github.com/TonicGaro/TTHD-Texture-Pack)
