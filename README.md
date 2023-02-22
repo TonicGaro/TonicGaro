@@ -7,6 +7,7 @@
 **Programs**
 
 * [Nullify](https://github.com/notplu/Nullify)
+* [TPB Dark Mode](https://github.com/TonicGaro/TPB-Dark-Mode)
 * [Coolmath Games iFrame Grabber](https://github.com/TonicGaro/Coolmath-Games-iFrame-Grabber)
 
 **Other**
