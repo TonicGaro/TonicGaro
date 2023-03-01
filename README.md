@@ -10,10 +10,14 @@
 * [TPB Dark Mode](https://github.com/TonicGaro/TPB-Dark-Mode)
 * [Coolmath Games iFrame Grabber](https://github.com/TonicGaro/Coolmath-Games-iFrame-Grabber)
 
+**GitHub Sites**
+
+* [cool site lol](https://tonicgaro.github.io/)
+
 **Other**
 
 * [Dig Site Source Code](https://github.com/TonicGaro/DigSiteSrc)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/773663586475048990)](https://discord.com/users/773663586475048990)
 
-[Replit](https://replit.com/@TonicGaro)
+[My Replit](https://replit.com/@TonicGaro)
