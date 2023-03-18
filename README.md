@@ -6,7 +6,7 @@
 
 **Exploits**
 
-* [Nullify](https://github.com/TonicGaro/TonicGaro.github.io/tree/main/nullify)
+* [Nullify (I-Ready Exploit)](https://github.com/TonicGaro/TonicGaro.github.io/tree/main/nullify)
 * [Blooket](https://github.com/TonicGaro/blooket)
 * [Coolmath Games iFrame Grabber](https://github.com/TonicGaro/Coolmath-Games-iFrame-Grabber)
 
