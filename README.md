@@ -14,10 +14,6 @@
 
 * [TPB Dark Mode](https://github.com/TonicGaro/TPB-Dark-Mode)
 
-**GitHub Sites**
-
-* [cool site lol](https://tonicgaro.github.io/)
-
 **Other**
 
 * [Dig Site Source Code](https://github.com/TonicGaro/DigSiteSrc)
