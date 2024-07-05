@@ -7,3 +7,7 @@
 **Programs**
 
 * [TPB Dark Mode](https://github.com/TonicGaro/TPB-Dark-Mode)
+
+**Patches**
+
+* [Rayman 2 PC Widescreen Patch](https://github.com/TonicGaro/R2Widescreen)
