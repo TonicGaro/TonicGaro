@@ -11,3 +11,4 @@
 **Patches**
 
 * [Rayman 2 PC Widescreen Patch](https://github.com/TonicGaro/R2Widescreen)
+* [GTA V Debloater](https://github.com/TonicGaro/GTA5-Debloat)
